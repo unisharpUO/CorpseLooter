@@ -1,0 +1,11 @@
+c:\users\jeff\documents\visual studio 2015\Projects\CorpseLooter\CorpseLooter\bin\Debug\CorpseLooter.exe.config
+c:\users\jeff\documents\visual studio 2015\Projects\CorpseLooter\CorpseLooter\bin\Debug\CorpseLooter.exe
+c:\users\jeff\documents\visual studio 2015\Projects\CorpseLooter\CorpseLooter\bin\Debug\CorpseLooter.pdb
+c:\users\jeff\documents\visual studio 2015\Projects\CorpseLooter\CorpseLooter\obj\Debug\CorpseLooter.exe
+c:\users\jeff\documents\visual studio 2015\Projects\CorpseLooter\CorpseLooter\obj\Debug\CorpseLooter.pdb
+C:\Users\jeff\Documents\Visual Studio 2015\Projects\CorpseLooter\CorpseLooter\bin\Debug\ScriptSDK.dll
+C:\Users\jeff\Documents\Visual Studio 2015\Projects\CorpseLooter\CorpseLooter\bin\Debug\XScript.dll
+C:\Users\jeff\Documents\Visual Studio 2015\Projects\CorpseLooter\CorpseLooter\bin\Debug\ScriptSDK.pdb
+C:\Users\jeff\Documents\Visual Studio 2015\Projects\CorpseLooter\CorpseLooter\bin\Debug\ScriptSDK.xml
+C:\Users\jeff\Documents\Visual Studio 2015\Projects\CorpseLooter\CorpseLooter\bin\Debug\XScript.dll.config
+C:\Users\jeff\Documents\Visual Studio 2015\Projects\CorpseLooter\CorpseLooter\obj\Debug\CorpseLooter.csproj.CopyComplete
