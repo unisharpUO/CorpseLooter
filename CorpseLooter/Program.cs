@@ -204,7 +204,7 @@ namespace CorpseLooter
 
             var _virtuehelper = VirtueHelper.GetVirtues();
             var _targethelper = TargetHelper.GetTarget();
-
+            //test
             while (Stealth.Client.GetConnectedStatus())
             {
                 try
